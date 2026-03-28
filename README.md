@@ -21,12 +21,12 @@ A real-time client-server chat application built using C and TCP socket programm
 - Clone the repository:
 
   ```bash
-   git clone https://github.com/your-username/chat-app.git
+   git clone https://github.com/SSwapnild31/chat-system-project.git
    ```
-- change directory to char-app
+- change directory to chat-system-project
 
   ```bash
-  cd chat-app
+  cd chat-system-project
   ```
 - Compile and create exe file called server
 
