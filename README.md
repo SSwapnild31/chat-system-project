@@ -2,6 +2,8 @@
 
 A real-time client-server chat application built using C and TCP socket programming. The application enables a client to connect to a server and exchange messages reliably over a network.
 
+---
+
 ## 🚀 Features
 - 💬 Real-time bidirectional communication
 - ⚡ Concurrent client handling using pthreads
